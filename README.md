@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/azuredeb1/ConstossoAir/_apis/build/status/deboshas.ContosoAir?branchName=master)](https://dev.azure.com/azuredeb1/ConstossoAir/_build/latest?definitionId=10&branchName=master)
 
 # Microsoft.Github CI Demo
 
